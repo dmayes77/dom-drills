@@ -1,6 +1,6 @@
 DOM Drills
 
-Tweaks:
+My tweaks:
 
 - Added RGB random color selector instead of just 8 colors
 
