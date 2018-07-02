@@ -1,5 +1,9 @@
 DOM Drills
 
+Tweaks:
+
+- Added RGB random color selector instead of just 8 colors
+
 Objective
 
 The objective of this assignment is to practice the basics of vanilla JavaScript DOM manipulation. DOM manipulation takes time and practice to fully grasp, go through the following tasks to practice.
@@ -22,4 +26,3 @@ Tasks
 - Create a function that if a list item is double clicked it removes the list item from the DOM.
 
 Advanced Section: Proceed to the DOM DOM DOMMMMMMM! Lab
-# dom-drills
